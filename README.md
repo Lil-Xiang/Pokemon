@@ -1,5 +1,5 @@
 # Pokemon
-#### 使用框架: Vue
-#### 打包技術: Vite
-#### 使用套件: Scss, Swiper
-#### 串接Pokemon公開Api資料來渲染畫面
+#### 1.使用框架: Vue
+#### 2.打包技術: Vite
+#### 3.使用套件: Scss, Swiper
+#### 4.串接Pokemon公開Api資料來渲染畫面
